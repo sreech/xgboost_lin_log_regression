@@ -115,8 +115,8 @@
     {
       "cell_type": "code",
       "source": [
-        "train_df = pd.read_csv(\"/content/drive/MyDrive/Colab Notebooks/MIT XPro/train.csv\")\n",
-        "test_df = pd.read_csv(\"/content/drive/MyDrive/Colab Notebooks/MIT XPro/test.csv\")"
+        "train_df = pd.read_csv(\"/content/drive/MyDrive/Colab Notebooks/train.csv\")\n",
+        "test_df = pd.read_csv(\"/content/drive/MyDrive/Colab Notebooks/test.csv\")"
       ],
       "metadata": {
         "id": "n38gY_0gJivd"
@@ -2365,12 +2365,8 @@
     {
       "cell_type": "markdown",
       "source": [
-        "## Next Steps\n",
         "\n",
-        "We invite you to:\n",
-        "\n",
-        "*   try different hyperparameter combinations and improve upon these metrics\n",
-        "*   apply the same techniques – Cross-Validation, Grid Search and Random Search – to find good hyperparameter combinations for Random Forests as well.\n"
+        "\n"
       ],
       "metadata": {
         "id": "RjgFyUpXZSgD"
